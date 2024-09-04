@@ -1,1 +1,1 @@
-val:key # dummy val so no read error
+key: val # dummy val so no read error

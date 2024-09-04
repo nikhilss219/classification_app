@@ -3,9 +3,9 @@ import sys
 import logging
 
 '''
-levelname==what level of log
-module==if running template.py ; then it will log that module name
-message== what is the message that is to be in that log
+levelname   ==  what level of log
+module      ==  if running template.py ; then it will log that module name
+message     ==  what is the message that is to be in that log
 
 fileHandler is to generate log file
 StreamHandler to print in the terminal

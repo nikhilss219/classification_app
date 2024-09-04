@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+artifacts/data_ingestion/*
 # Distribution / packaging
 .Python
 build/
